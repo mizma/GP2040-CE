@@ -38,6 +38,7 @@ export default {
 			BUTTON_LAYOUT_6GAWD_A: '6GAWD Left',
 			BUTTON_LAYOUT_6GAWD_ALLBUTTON_A: '6GAWD All Button Left',
 			BUTTON_LAYOUT_6GAWD_ALLBUTTONPLUS_A: '6GAWD All Button Pinky Left',
+			BUTTON_LAYOUT_STICKLESS_ERGO: 'Stickless Ergo',
 		},
 		right: {
 			BUTTON_LAYOUT_ARCADE: 'Arcade',
@@ -78,6 +79,7 @@ export default {
 			BUTTON_LAYOUT_6GAWD_B: '6GAWD Right',
 			BUTTON_LAYOUT_6GAWD_ALLBUTTON_B: '6GAWD All Button Right',
 			BUTTON_LAYOUT_6GAWD_ALLBUTTONPLUS_B: '6GAWD All Button Pinky Right',
+			BUTTON_LAYOUT_STICKLESS_ERGOB: 'Stickless Ergo',
 		},
 	},
 };
