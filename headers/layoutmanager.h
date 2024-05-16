@@ -71,6 +71,8 @@ class LayoutManager {
         LayoutList drawVewlix();
         LayoutList drawVewlix7();
         LayoutList drawSega2p();
+        LayoutList drawSticklessErgo();
+        LayoutList drawSticklessButtonsErgo();
         LayoutList drawNoir8();
         LayoutList drawCapcom();
         LayoutList drawCapcom6();

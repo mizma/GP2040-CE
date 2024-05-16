@@ -678,6 +678,7 @@ app.get('/api/getButtonLayoutDefs', (req, res) => {
 			BUTTON_LAYOUT_6GAWD_A: 30,
 			BUTTON_LAYOUT_6GAWD_ALLBUTTON_A: 31,
 			BUTTON_LAYOUT_6GAWD_ALLBUTTONPLUS_A: 32,
+			BUTTON_LAYOUT_STICKLESS_ERGO:33
 		},
 		buttonLayoutRight: {
 			BUTTON_LAYOUT_ARCADE: 0,
@@ -717,6 +718,7 @@ app.get('/api/getButtonLayoutDefs', (req, res) => {
 			BUTTON_LAYOUT_6GAWD_B: 34,
 			BUTTON_LAYOUT_6GAWD_ALLBUTTON_B: 35,
 			BUTTON_LAYOUT_6GAWD_ALLBUTTONPLUS_B: 36,
+			BUTTON_LAYOUT_STICKLESS_ERGOB:37,
 		},
 	});
 });

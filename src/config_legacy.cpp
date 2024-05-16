@@ -113,6 +113,7 @@ namespace ConfigLegacy
         BUTTON_LAYOUT_STICKLESS_13,
         BUTTON_LAYOUT_STICKLESS_16,
         BUTTON_LAYOUT_STICKLESS_14,
+        BUTTON_LAYOUT_STICKLESS_ERGO,
     };
 
     enum ButtonLayoutRight
@@ -138,6 +139,7 @@ namespace ConfigLegacy
         BUTTON_LAYOUT_OPENCORE0WASDB,
         BUTTON_LAYOUT_STICKLESS_13B,
         BUTTON_LAYOUT_STICKLESS_16B,
+        BUTTON_LAYOUT_STICKLESS_ERGOB,
         BUTTON_LAYOUT_STICKLESS_14B,
     };
 
@@ -562,6 +564,7 @@ static bool isValidButtonLayout(ConfigLegacy::ButtonLayout buttonLayout)
         case BUTTON_LAYOUT_STICKLESS_13:
         case BUTTON_LAYOUT_STICKLESS_16:
         case BUTTON_LAYOUT_STICKLESS_14:
+        case BUTTON_LAYOUT_STICKLESS_ERGO:
             return true;
     }
     return false;
@@ -593,6 +596,7 @@ static bool isValidButtonLayoutRight(ConfigLegacy::ButtonLayoutRight buttonLayou
         case BUTTON_LAYOUT_STICKLESS_13B:
         case BUTTON_LAYOUT_STICKLESS_16B:        
         case BUTTON_LAYOUT_STICKLESS_14B:
+        case BUTTON_LAYOUT_STICKLESS_ERGOB:
             return true;
     }
     return false;
