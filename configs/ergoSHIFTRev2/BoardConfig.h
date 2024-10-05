@@ -72,6 +72,27 @@
 #define SPLASH_MODE SPLASH_MODE_STATIC
 #define SPLASH_DURATION 7500
 
+#define BOARD_LEDS_PIN 7
+
+#define LED_BRIGHTNESS_MAXIMUM 50
+#define LEDS_PER_PIXEL 1
+
+#define LEDS_DPAD_LEFT   0
+#define LEDS_DPAD_DOWN   1
+#define LEDS_DPAD_RIGHT  2
+#define LEDS_BUTTON_L3   3
+#define LEDS_DPAD_UP     4
+#define LEDS_BUTTON_L2   5
+#define LEDS_BUTTON_R3   6
+#define LEDS_BUTTON_B1   7
+#define LEDS_BUTTON_B3   8
+#define LEDS_BUTTON_S1   9
+#define LEDS_BUTTON_B4   10
+#define LEDS_BUTTON_B2   11
+#define LEDS_BUTTON_R2   12
+#define LEDS_BUTTON_R1   13
+#define LEDS_BUTTON_L1   14
+
 /**
  * Made with Marlin Bitmap Converter
  * https://marlinfw.org/tools/u8glib/converter.html
