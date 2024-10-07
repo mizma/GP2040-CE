@@ -90,8 +90,8 @@
 #define LEDS_BUTTON_B4   10
 #define LEDS_BUTTON_B2   11
 #define LEDS_BUTTON_R2   12
-#define LEDS_BUTTON_R1   13
-#define LEDS_BUTTON_L1   14
+#define LEDS_BUTTON_L1   13
+#define LEDS_BUTTON_R1   14
 
 /**
  * Made with Marlin Bitmap Converter
